@@ -1,2 +1,2 @@
 # tests
-It's repository for tests
+It's repository for some analitics tests.
